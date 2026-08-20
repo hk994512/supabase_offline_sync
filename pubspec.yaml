@@ -1,7 +1,7 @@
-name: sync_supabase
-description: A starting point for Dart libraries or applications.
+name: supabase_offline_sync
+description: An offline-first sync toolkit for Supabase — sync local Hive storage with Supabase tables automatically, with conflict resolution and connectivity-aware auto-sync.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/hk994512/supabase_offline_sync
 
 environment:
   sdk: ^3.12.2
