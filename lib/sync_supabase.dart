@@ -13,8 +13,6 @@ export 'src/table_storage.dart';
 export 'constants/secrets.dart';
 export 'package:hive/hive.dart';
 
-export 'package:test/test.dart';
-
 export './src/sync_engine.dart';
 
 export 'dart:async';
@@ -25,3 +23,8 @@ export 'package:hive_flutter/hive_flutter.dart';
 export 'package:supabase/supabase.dart';
 
 export './src/i_remote_client.dart';
+export 'package:flutter_test/flutter_test.dart';
+
+
+
+export 'package:sync_supabase/src/connectivity_watcher.dart';

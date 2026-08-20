@@ -1,11 +1,6 @@
-import 'package:hive/hive.dart';
-import 'package:supabase/supabase.dart';
-import 'package:sync_supabase/constants/secrets.dart';
-import 'package:sync_supabase/src/supabase_sync_client.dart';
-import 'package:sync_supabase/src/table_storage.dart';
-import 'package:sync_supabase/src/sync_engine.dart';
-import 'package:sync_supabase/src/sync_record.dart';
 
+
+import 'package:sync_supabase/sync_supabase.dart';
 final sInstance = SecretsApi.instance;
 
 void main() async {

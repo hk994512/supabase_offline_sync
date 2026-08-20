@@ -1,7 +1,6 @@
-import 'package:supabase/supabase.dart';
-import 'package:sync_supabase/constants/secrets.dart';
-import 'package:sync_supabase/src/supabase_sync_client.dart';
 
+
+import 'package:sync_supabase/sync_supabase.dart';
 final sInstance = SecretsApi.instance;
 
 void main() async {

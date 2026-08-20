@@ -1,10 +1,5 @@
-import 'package:flutter_test/flutter_test.dart';
-import 'package:hive/hive.dart';
 import 'package:mocktail/mocktail.dart';
-import 'package:sync_supabase/src/i_remote_client.dart';
-import 'package:sync_supabase/src/sync_record.dart';
-import 'package:sync_supabase/src/sync_engine.dart';
-import 'package:sync_supabase/src/table_storage.dart';
+import 'package:sync_supabase/sync_supabase.dart';
 
 class MockRemoteClient extends Mock implements IRemoteClient {}
 
