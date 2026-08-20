@@ -6,4 +6,5 @@
 # https://dart.dev/tools/pub/private-files#pubspec-lock.
 pubspec.lock
 build/
+secrets.txt
 

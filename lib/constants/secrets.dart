@@ -1,6 +1,6 @@
 class SecretsApi {
-  String projectUrl = 'https://hgzospfyfuhjpvwyxylf.supabase.co';
-  String publishableKey = 'sb_publishable_2j8C5rO87lF3y0G5BHFGvQ_WPpdzWFG';
+  String projectUrl = 'YOUR_PROJECT_URL';
+  String publishableKey = 'YOUR_PROJECT_publishablesKey';
   SecretsApi._();
   static final instance = SecretsApi._();
 }
