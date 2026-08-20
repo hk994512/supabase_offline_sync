@@ -1,6 +1,6 @@
-
 // import 'package:sync_supabase/sync_supabase.dart';
-import 'package:sync_supabase/sync_supabase.dart';
+import 'package:supabase_offline_sync/sync_supabase.dart';
+
 void main() {
   setUp(() async {
     Hive.init('./test/hive_test_data'); // temp folder for test data

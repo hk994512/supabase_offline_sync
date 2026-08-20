@@ -1,4 +1,4 @@
-import 'package:sync_supabase/sync_supabase.dart';
+import 'package:supabase_offline_sync/sync_supabase.dart';
 
 void main() {
   group('A group of tests', () {
