@@ -25,6 +25,4 @@ export 'package:supabase/supabase.dart';
 export './src/i_remote_client.dart';
 export 'package:flutter_test/flutter_test.dart';
 
-
-
-export 'package:sync_supabase/src/connectivity_watcher.dart';
+export '/src/connectivity_watcher.dart';
